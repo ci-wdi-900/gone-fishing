@@ -76,6 +76,9 @@ and valued at $0.05
 
 This fish would put you over 10 lbs, so you release it.
 
+Press [enter] to continue.
+>
+
 ==========================================
 
 The time is 12:00pm. Times up!
