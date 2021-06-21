@@ -36,7 +36,7 @@ for six hours (till 12:00pm) and can catch at most 10 lbs of fish.
 
 ==========================================
 
-This time is 6:00am. So far you've caught:
+The time is 6:00am. So far you've caught:
 0 fish, 0 lbs, $0.00
 
 You caught a 'Slimy Scaly Bass' weighing 0.24 lbs
@@ -49,7 +49,7 @@ You chose to keep the fish.
 
 ==========================================
 
-This time is 7:00am. So far you've caught:
+The time is 7:00am. So far you've caught:
 1 fish, 0.24 lbs, $3.12
 
 You caught a 'Deepsea Finned Salmon' weighing 4.50 lbs
@@ -68,7 +68,7 @@ _Some time later..._
 ```
 ==========================================
 
-This time is 11:00am. So far you've caught:
+The time is 11:00am. So far you've caught:
 2 fish, 9.8 lbs, $25.30
 
 You caught a 'Purple Bigmouthed Herring' weighing 1.42 lbs
