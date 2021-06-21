@@ -1,4 +1,4 @@
-# Gone Fishing
+# 🐟 Gone Fishing
 
 <img src="https://fishingbooker.com/blog/media/hero-lures.jpg" width="500px" />
 
@@ -15,7 +15,7 @@ each fish should have a randomly generated weight and value.
 
 Finally, lets assume that it takes one hour to catch each fish.
 
-## Requirements
+## 📋 Requirements
 
 * You make at least three commits in git (after completing parts of the project)
 * The user is able to 'catch' fish with randomly generated names, weights, and values
@@ -28,7 +28,7 @@ with a sum of their weight and value
 
 As long as you work within these requirements, take as many creative liberties as you like!
 
-## Example
+## 📖 Example
 
 ```
 You've gone fishing! Try to maximize the value of your caught fish. You can fish
@@ -87,11 +87,11 @@ Total value: $25.30
 
 ```
 
-## Hints
+## ❓ Hints
 
 Once again, check out [HINTS.md](HINTS.md) for hints on how to build this.
 
-## Stretch Goals
+## 🚀 Stretch Goals
 
 ### Tune your randomly generated weights
 
