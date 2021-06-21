@@ -66,6 +66,8 @@ You chose to release the fish.
 _Some time later..._
 
 ```
+==========================================
+
 This time is 11:00am. So far you've caught:
 2 fish, 9.8 lbs, $25.30
 
