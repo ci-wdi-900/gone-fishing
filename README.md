@@ -1,19 +1,19 @@
 # Gone Fishing
 
+<img src="https://fishingbooker.com/blog/media/hero-lures.jpg" width="500px" />
+
 In this assignment, you'll create a fishing simulator game that lets the user
-decide whether to keep or release randomly generated fish that they catch.
+decide whether to catch or release randomly generated fish.
 
-The goals is to catch the most value worth of fish to sell at the fish market
-afterwards. But the fisher is only allowed to catch 10 lbs of fish maximum and can
+The goal is to catch the highest value worth of fish to later sell at the fish market. 
+With that said, the fisher is only allowed to catch 10 lbs of fish maximum and can
 only fish for six hours.
-
-## Details
 
 Each fish that the user catches should have a randomly generated name consisting 
 of two desciptors and a type of fish (i.e.: `'Enormous Red Trout'`). Additionally,
 each fish should have a randomly generated weight and value.
 
-To start off, lets assume that each fish takes exactly 1 hour to catch. 
+Finally, lets assume that it takes one hour to catch each fish.
 
 ## Requirements
 
@@ -25,6 +25,8 @@ To start off, lets assume that each fish takes exactly 1 hour to catch.
 * Each turn, the sum of the user's caught fishes' weight and value is displayed
 * At the end of the game, all the fish that the user caught are displayed along
 with a sum of their weight and value
+
+As long as you work within these requirements, take as many creative liberties as you like!
 
 ## Example
 
