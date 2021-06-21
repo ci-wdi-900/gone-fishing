@@ -1,6 +1,6 @@
 # Hints
 
-**After completing every step below, make a commit in git!** This will help you save your progress every time you get your code in a working state.
+**After completing each step below, make a commit in git!** This will help you save your progress every time you get your code in a working state.
 
 ## Step 1: Foundation
 
